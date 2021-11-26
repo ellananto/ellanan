@@ -1,0 +1,49 @@
+.right {
+    text-align: right;
+}
+
+.ellasfont {
+    font-family: sans-serif;
+}
+
+.black {
+    color: black;
+}
+
+.white {
+    color: white;
+}
+
+.bold {
+    font-weight:bolder;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+h5 {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.backgroundella {
+    background-image: url(../assets/images/home-bg.png)
+}
+
+.backgroundme {
+    background-image: url(../assets/images/aboutmebackground.jpg)
+}
+
+.backgroundresume {
+    background-image: url(../assets/images/brownie.jpg)
+}
+
+body {
+    justify-content: center;
+    display: inline;
+}
